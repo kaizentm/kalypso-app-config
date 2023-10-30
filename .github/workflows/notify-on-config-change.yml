@@ -9,6 +9,7 @@ on:
       - '[a-zA-Z][0-9]+'
       - '!main'
 
+
 jobs:
   notify-on-config-change:
     runs-on: ubuntu-latest
